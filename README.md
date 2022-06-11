@@ -1,2 +1,2 @@
-# Machine Learning-Final-KNN, Decision Tree, Logistic regression, SVM
+# Machine Learning-KNN, Decision Tree, Logistic regression, SVM
 
